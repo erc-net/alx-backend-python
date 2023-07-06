@@ -1,4 +1,4 @@
-![] (https://i.ytimg.com/vi/48PD_RY73LE/maxresdefault.jpg)
+![](https://i.ytimg.com/vi/H_LfhdFzNcE/maxresdefault.jpg)
 
 Variable annotations in Python allow you to provide type hints for variables. They were introduced in Python 3.6 as part of the type hinting feature, which is a way to add type information to your code for better static analysis and documentation purposes.
 def factorial(n: int) -> int:
